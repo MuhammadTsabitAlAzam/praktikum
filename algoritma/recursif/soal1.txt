@@ -1,0 +1,8 @@
+buatlah seuatu fungsi
+yang berisi
+
+f(x) = x+ f(x-1)/2
+
+bersifat rekursif dengan nilai x bilangan bulat positif 
+yang dimasukkan oelh user
+tampilkan perhitungan dan hasil akhirnya
